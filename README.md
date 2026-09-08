@@ -1,4 +1,4 @@
-# Laporan Praktikum Aplikasi Website (Modul 3 dan 4)
+# Laporan Praktikum Aplikasi Website (Modul 3)
 Topik: Visualisasi Interaktif dan Analitik Data Keuangan Perusahaan (company_data.csv) menggunakan Streamlit.
 
 ## Struktur Direktori
